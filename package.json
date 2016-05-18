@@ -22,9 +22,9 @@
     "classnames": "^2.2.0"
   },
   "peerDependencies": {
-    "redux": "^2.0.0 || ^3.0.0",
-    "react-redux": "^2.0.0 || ^3.1.0 || ^4.0.0",
-    "react": "^0.13.3 || ^0.14.0"
+    "redux": "^3.4.0",
+    "react-redux": "^4.4.0",
+    "react": "^15.0.0"
   },
   "devDependencies": {
     "babel": "^5.8.23",
